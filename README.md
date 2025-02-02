@@ -16,7 +16,7 @@ Hey, everyone! I'm an Computer Engineering student graduating from IFMS and Admi
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="100" 
+    height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draky-Rollgard&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 </p>
