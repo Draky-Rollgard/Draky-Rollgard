@@ -23,7 +23,6 @@ Hey, everyone! I'm an Computer Engineering student graduating from IFMS and Admi
     
 <br/>
 
----
 <br/>
 <br/>
 <br/>
@@ -35,7 +34,7 @@ Hey, everyone! I'm an Computer Engineering student graduating from IFMS and Admi
 <br/>
 <br/>
 
-### Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 
 ### Linguagens de Programação
