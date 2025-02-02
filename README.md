@@ -7,7 +7,7 @@ Hey, everyone! I'm an Computer Engineering student graduating from IFMS and Admi
 ---
 <p>
     <img 
-        align="Center" 
+        align="center" 
         alt="GitHub Stats" 
         height="200" 
         style="padding-right: 10px;" 
@@ -16,7 +16,7 @@ Hey, everyone! I'm an Computer Engineering student graduating from IFMS and Admi
 
 <p>
     <img 
-    align="Center" 
+    align="center" 
     alt="GitHub Stats" 
     height="100" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draky-Rollgard&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
