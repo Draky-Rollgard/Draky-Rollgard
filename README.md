@@ -7,7 +7,7 @@ Hey, everyone! I'm an Computer Engineering student graduating from IFMS and Admi
 ---
 ## Linguagens e Tecnologias
 
-### Linguagens de Programação
+### Linguagens
 
 <img 
     align="left" 
