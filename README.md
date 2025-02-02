@@ -22,6 +22,8 @@ Hey, everyone! I'm an Computer Engineering student graduating from IFMS and Admi
     <br/>
 <p>
 
+---
+
 <br/>
 <br/>
 <br/>
