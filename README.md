@@ -22,6 +22,7 @@ Hey, everyone! I'm an Computer Engineering student graduating from IFMS and Admi
 </p>
 
 <br/>
+<br/>
 
 ## Linguagens e Tecnologias
 
