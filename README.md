@@ -7,9 +7,9 @@ Hey, everyone! I'm an Computer Engineering student graduating from IFMS and Admi
 ---
 <p>
     <img 
-        align="center" 
+        align="Center" 
         alt="GitHub Stats" 
-        height="300" 
+        height="200" 
         style="padding-right: 10px;" 
         src="https://github-readme-stats.vercel.app/api?username=Draky-Rollgard&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
     />
