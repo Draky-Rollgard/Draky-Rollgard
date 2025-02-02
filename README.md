@@ -20,11 +20,12 @@ Hey, everyone! I'm an Computer Engineering student graduating from IFMS and Admi
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draky-Rollgard&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
 </p>
+
+<br/>
 <br/>
 <br/>
 <br/>
 
----
 
 ## Linguagens e Tecnologias
 
