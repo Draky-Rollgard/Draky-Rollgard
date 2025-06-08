@@ -33,8 +33,8 @@ Hey, everyone! I'm an Computer Engineering student with a technical background i
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="C"
+    title="C" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
@@ -42,48 +42,48 @@ Hey, everyone! I'm an Computer Engineering student with a technical background i
 
 <img
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Python"
+    title="Python" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
           
 <img
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="JavaScript"
+    title="JavaScript" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="HTML5"
+    title="HTML5" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
                    
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="CSS3"
+    title="CSS3" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
                    
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="SQL"
+    title="SQL" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
           
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Bash"
+    title="Bash" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
@@ -95,8 +95,8 @@ Hey, everyone! I'm an Computer Engineering student with a technical background i
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="arduino"
+    title="arduino" 
     width="30px"
     style="padding-right: 20px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
@@ -104,8 +104,8 @@ Hey, everyone! I'm an Computer Engineering student with a technical background i
             
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="vim"
+    title="vim" 
     width="30px"
     style="padding-right: 20px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
@@ -113,16 +113,16 @@ Hey, everyone! I'm an Computer Engineering student with a technical background i
           
 <img
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="VScode"
+    title="VScode" 
     width="30px"
     style="padding-right: 20px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
 <img
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Debian"
+    title="Debian" 
     width="30px"
     style="padding-right: 20px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" 
@@ -130,8 +130,8 @@ Hey, everyone! I'm an Computer Engineering student with a technical background i
      
 <img
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Windows11"
+    title="Windows11" 
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
 />
